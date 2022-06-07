@@ -1,0 +1,45 @@
+.loading {
+    text-align: center;
+}
+
+.blogs {
+    /* color: cornflowerblue; */
+    border-top: 1px solid #eee;
+}
+
+.blog {
+    border-bottom: 1px solid #eee;
+    padding: 20px 0;
+}
+
+.blog-title {
+    margin-top: 0;
+}
+
+.blog-title a {
+    color: black;
+    text-decoration: none;
+}
+
+.blog-title a:hover {
+    color: blue;
+}
+
+.blog-description {
+    color: #999;
+    font-size: 14px;
+}
+
+.blog-description a {
+    color: black;
+    text-decoration: none;
+}
+
+.blog-description a:hover {
+    color: blue;
+}
+
+.blog-image {
+    max-width: 100%;
+    display: inline-block;
+}
